@@ -1,7 +1,8 @@
 # W-O-R-L-D-T-O-N-E
 WorldTone is an innovative Translation AI project hosted on GitHub. The project aims to provide advanced translation capabilities using artificial intelligence techniques. It leverages powerful language processing algorithms and machine learning models to enable accurate and efficient translation between different languages.
 
-Features:
+#Features:
+
 Multilingual Translation: WorldTone supports translation between a wide range of languages, allowing users to seamlessly communicate and understand content in different languages.
 
 High Translation Accuracy: The project utilizes state-of-the-art machine learning models and natural language processing techniques to achieve high translation accuracy, ensuring reliable and precise translations.
