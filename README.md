@@ -6,11 +6,14 @@ Getting Started
 To use Worldtone, simply:
 
 Clone the repository
+
 Install the dependencies
+
 pip install -r requirements.txt
 
 Code snippet
-3. Run the application
+
+Run the application
 Use code with caution. Learn more
 python worldtone.py
 
@@ -30,9 +33,10 @@ Development
 Worldtone is developed using Python and the Tkinter GUI toolkit. The Google Translate API is used to provide translation services.
 
 Contributing
+
 Contributions to Worldtone are welcome. Please feel free to open issues or pull requests.
 
 License
-Worldtone is licensed under the GNU licence3
+Worldtone is licensed under the GNU GENERAL PUBLIC LICENSE
 
 
